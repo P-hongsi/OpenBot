@@ -1,4 +1,4 @@
-# 🔥OpenBot 프로젝트🔥
+# [🔥OpenBot 프로젝트🔥](https://www.notion.so/OpenBot-04b04546aec54d9ab4404e575920705d)
 
 # 그룹: 이과!
 
