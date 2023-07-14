@@ -44,7 +44,7 @@ OpenBot은 로봇 개발을 쉽고 저렴하게 만들어주는 훌륭한 플랫
 
 - 폰과 시리얼 통신 코드
 
-![Untitled](src/Untitled 1.png)
+![Untitled](src/Untitled1.png)
 
 > 작동 영상
 >
