@@ -1,12 +1,10 @@
-# 🔥OpenBot 프로젝트🔥
+# [🔥OpenBot 프로젝트🔥](https://github.com/P-hongsi/OpenBot)
 
 # 그룹: 이과!
 
 # 팀: 서박서박!😎(서성민,박준영)
 
 ### 팀 소개: 각자의 성을 따서 만듦
-
-[https://github.com/P-hongsi/OpenBot](https://github.com/P-hongsi/OpenBot)
 
 [🔥OpenBot 프로젝트🔥](https://p-hongsi.github.io/OpenBot/)
 
