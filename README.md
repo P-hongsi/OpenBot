@@ -40,7 +40,7 @@ OpenBot은 로봇 개발을 쉽고 저렴하게 만들어주는 훌륭한 플랫
 > 작동 영상
 > 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3X7YW5RNTCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/3X7YW5RNTCY](https://youtu.be/3X7YW5RNTCY)
 
 - 폰과 시리얼 통신 코드
 
@@ -49,24 +49,24 @@ OpenBot은 로봇 개발을 쉽고 저렴하게 만들어주는 훌륭한 플랫
 > 작동 영상
 > 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/toLFZzBLeAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/toLFZzBLeAA](https://youtu.be/toLFZzBLeAA)
 
 # 트랙 데이터 수집 및 학습
 
 > 데이터 수집 과정 영상
 > 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P3uWY4jA0OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/P3uWY4jA0OA](https://youtu.be/P3uWY4jA0OA)
 
 > 데이터 학습 코드(colab)
 > 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LP3kOfOQQqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/LP3kOfOQQqQ](https://youtu.be/LP3kOfOQQqQ)
 
 > 학습한 모델을 이용하여 자율 주행 영상
 > 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GOpPLguz4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/8GOpPLguz4s](https://youtu.be/8GOpPLguz4s)
 
 # 1일차
 
